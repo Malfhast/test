@@ -1,0 +1,6 @@
+{"_id":"Afr","name":"Afrique","permission":{"default":0},"type":"heritage","data":{"description":"Arabe, Egyptien, Algérien, Congolais, Niger, Maroc, Liberien, Afrique du sud, Tunisien, Mali, etc. ..."},"sort":400000,"flags":{}}
+{"_id":"AmN","name":"Amérique du Nord","permission":{"default":0},"type":"heritage","data":{"description":"Etats-Unis, Canada, Mexique ..."},"sort":500000,"flags":{}}
+{"_id":"AmS","name":"Amérique du Sud","permission":{"default":0},"type":"heritage","data":{"description":"Argentin, Brésilien, Colombien, Péruvien, etc. ..."},"sort":600000,"flags":{}}
+{"_id":"Asi","name":"Asie","permission":{"default":0},"type":"heritage","data":{"description":"Chinois, Mongolie, Coréen, Japonais, Indonésien, Afghanistan, Yémen, Népal, Thaïlande, Cambodge, etc. ..."},"sort":200000,"flags":{}}
+{"_id":"Euro","name":"Européen","permission":{"default":0},"type":"heritage","data":{"description":"Vous êtes origine de l'Europe ; Français, Irlandais, Anglais, Albanais, Allemand, Islandais, Suédois, Espagnol, Italien, Norvégien etc. ... Tout ce qui vient de l'Europe"},"sort":300000,"flags":{}}
+{"_id":"Océa","name":"Océanie","permission":{"default":0},"type":"heritage","data":{"description":"Australie, Nouvelle-Zélande, Indonésien, Guinéen, etc. ..."},"sort":100000,"flags":{}}
