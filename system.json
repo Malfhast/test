@@ -25,9 +25,9 @@
       "path": "lang/ru.json"
     }
   ],
-  "url": "https://github.com/megastruktur/foundryvtt-blades-in-the-dark/",
-  "manifest": "https://raw.githubusercontent.com/megastruktur/foundryvtt-blades-in-the-dark/1.2/system.json",
-  "download": "https://github.com/megastruktur/foundryvtt-blades-in-the-dark/archive/1.2.zip",
+  "url": "https://github.com/Malfhast/test",
+  "manifest": "https://raw.githubusercontent.com/Malfhast/test/main/system.json",
+  "download": "https://github.com/Malfhast/test/archive/main.zip",
   "packs": [
     {
       "name": "class",
