@@ -40,11 +40,11 @@
   <div class="description">
     <p>
       {{#if (eq position "BITD.PositionControlled")}}
-      {{{localize "BITD.RollFailurePositionControlled"}}}
+      {{{localize "BITD.RollPartialSuccessPositionControlled"}}}
       {{else if (eq position "BITD.PositionRisky")}}
-      {{{localize "BITD.RollFailurePositionRisky"}}}
+      {{{localize "BITD.RollPartialSuccessPositionRisky"}}}
 	  {{else if (eq position "BITD.PositionDesperate")}}
-      {{{localize "BITD.RollFailurePositionDesperate"}}}
+      {{{localize "BITD.RollPartialSuccessPositionDesperate"}}}
       {{else}}
       {{{localize "BITD.RollFailurePosition"}}}
       {{/if}}
