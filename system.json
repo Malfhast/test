@@ -2,7 +2,7 @@
   "name": "blades-in-the-dark-wildwest",
   "title": "Blades in the Dark Wild West",
   "description": "Blades in the dark game system.",
-  "version": "1.2",
+  "version": "1.3",
   "minimumCoreVersion": "0.5.3",
   "compatibleCoreVersion": "0.7.0",
   "templateVersion": 1,
